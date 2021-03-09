@@ -1,7 +1,9 @@
 <h3 align="center">Clone - 
 Clubhouse ✌🏼</h3>
 
-<img src="./assets/demo.png" />
+<p align="center">
+    <img src="./assets/demo.png" />
+</p>
 
 <hr>
 
